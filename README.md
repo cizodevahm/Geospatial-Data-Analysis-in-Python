@@ -44,7 +44,7 @@ Clone this repository and open the `Geospatial Data Analysis in Python.ipynb` no
 - Conducting spatial analysis, including spatial joins and aggregations
 
 ## Example
-![Example Image](image.png)
+![Example Image](example.png)
 
 ## License
 
